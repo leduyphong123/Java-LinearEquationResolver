@@ -10,6 +10,6 @@ public class Main{
         a=input.nextFloat();
         System.out.print("nhap so b = ");
         b=input.nextFloat();
-        System.out.print("Result x = " + (a/b));
+        System.out.print("Result x = " + (-b/a));
     }
 }
